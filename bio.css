@@ -8,11 +8,11 @@ h2 {
 	border: 5px;
 	border-style: dotted;
 	border-color: green;
+	font-family: cursive;
 }
 
 body {
 	margin: 50px;
-	font-family: cursive;
 }
 
 p {
