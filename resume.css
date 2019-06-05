@@ -1,8 +1,10 @@
 /* styling for resume.html*/
-h1 {
-	text-align: center;
-}
+
 
 body {
 	margin: 50px;
+}
+
+h1 {
+	text-align: center;
 }
