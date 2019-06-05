@@ -1,12 +1,16 @@
-/* styling for resume.html*/
-
-
 body {
 	margin: 50px;
 }
 
 h1 {
 	text-align: center;
+	padding-bottom: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+h2 {
+	font-size: 22px;
 }
 
 .bold {
@@ -16,3 +20,4 @@ h1 {
 .italic {
 	font-style: italic;
 }
+
